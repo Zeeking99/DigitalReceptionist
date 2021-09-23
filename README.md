@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Digital Receptionist
+The aim of this project is to create an AI receptionist.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
